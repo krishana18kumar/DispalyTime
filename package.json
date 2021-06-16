@@ -1,0 +1,23 @@
+{
+  "name": "clock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+   "deploy" : "gh-pages -d app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krishana18kumar/DispalyTime.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krishana18kumar/DispalyTime/issues"
+  },
+  "homepage": "https://github.com/krishana18kumar/DispalyTime#readme",
+  "dependencies": {
+    "gh-pages": "^3.2.1"
+  }
+}
